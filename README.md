@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="img/Bikcraft-git.png" width="80%">
+  <img alt="Frontend" src="img/flexblog-git.png" width="80%">
 </p>
 
 ## ◾ Projeto
